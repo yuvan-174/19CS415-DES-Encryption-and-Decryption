@@ -1,4 +1,4 @@
-# 19CS415-DES-Encryption-and-Decryption
+# EX-7-DATA ENCRYPTION STANDARD(DES)
 ## AIM: 
 To Encrypt and Decrypt the given message using Data Encryption Standard(DES) algorithm.
 ## DESIGN STEPS:
